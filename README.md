@@ -1,8 +1,16 @@
 ## Olá, eu me chamo Ricardo.
 Atualmente estou cursando o 3° período em Análise e Desenvolvimento de Sistemas na Universidade Positivo.
 
-![Ricks's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfrickss&show_icons=true&theme=midnight-purple&count_private=true&hide=prs&hide_title=true&border_radius=10&width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrickss&layout=compact&show_icons=true&theme=midnight-purple&border_radius=10&width=400)
+<div style="display: flex; flex-direction: column; align-items: center; width: 0%;">
+  <!-- Card de top linguagens -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrickss&layout=compact&show_icons=true&theme=midnight-purple&border_radius=10" width="250" height="250">
+  <!-- Card de estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mfrickss&show_icons=true&theme=midnight-purple&count_private=true&hide=prs&hide_title=true&border_radius=10" width="450" height="250">
+
+
+</div>
+
+
 
 ##
 Tecnologias que estou estudando:
