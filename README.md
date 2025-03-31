@@ -26,12 +26,13 @@ Tecnologias que estou estudando:
 </div>
   
   ##
- 
+
+ <!--
 <div> 
   <a href="https://instagram.com/mfrickss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ricardocamargodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+-->
 
 
 
