@@ -16,11 +16,18 @@ Atualmente estou cursando o 3° período em Análise e Desenvolvimento de Sistem
 </div>
 
 
+#
+<img align="right" alt="" height="190px" src="./to-readme/download.gif">
 
-##
-<div style="text-align: center;" align="center">
-Tecnologias que estou estudando:
-<div style="display: inline_block"><br>
+<h3 align="left">Talk to me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:mfricks777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mfricks/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mfrickss/)
+
+<h3 align="left">Tecnologias que estou estudando:</h3>
+
+<div align="left">
   <!--<img align="center" alt="Ricks-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ricks-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">-->
   <img align="center" alt="Ricks-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,11 +37,15 @@ Tecnologias que estou estudando:
   <img align="center" alt="Ricks-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricks-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-</div>
 
-<img align="right" alt="" height="190px" src="./to-readme/download.gif">
-  
-  ##
+
+
+
+
+
+#
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfrickss/mfrickss/output/github-contribution-grid-snake-dark.svg">
