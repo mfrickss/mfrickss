@@ -25,7 +25,7 @@ Atualmente estou cursando o 3° período em Análise e Desenvolvimento de Sistem
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mfricks/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mfrickss/)
 
-<h3 align="left">Tecnologias que estou estudando:</h3>
+<h3 align="left">Stacks que estou estudando:</h3>
 
 <div align="left">
   <!--<img align="center" alt="Ricks-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
