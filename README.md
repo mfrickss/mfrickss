@@ -17,7 +17,7 @@ Atualmente estou cursando o 3° período em Análise e Desenvolvimento de Sistem
 
 
 #
-<img align="right" alt="" height="190px" src="./to-readme/download.gif">
+<img align="right" alt="" height="190px" src="./to-readme/bonfire.gif">
 
 <h3 align="left">Talk to me!</h3>
 
