@@ -31,6 +31,8 @@ Tecnologias que estou estudando:
   <img align="center" alt="Ricks-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 </div>
+
+<img align="right" alt="" height="190px" src="./to-readme/download.gif">
   
   ##
 
