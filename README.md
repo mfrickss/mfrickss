@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Ricardo.
 
 <div align="center">
-Atualmente estou cursando o 3° período em Análise e Desenvolvimento de Sistemas na Universidade Positivo.
+Atualmente estou cursando o 4° período em Análise e Desenvolvimento de Sistemas na Universidade Positivo.
 </div>
 
 
