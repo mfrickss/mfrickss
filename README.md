@@ -1,18 +1,18 @@
-## Olá, eu me chamo Ricardo.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=50&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ricardo;I'm+a+FullStack+Developer;Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
 Atualmente estou cursando o 4° período em Análise e Desenvolvimento de Sistemas na Universidade Positivo.
 </div>
 
+##
 
-<div style="text-align: center;" align="center">
-  <h3> GitHub Stats </h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mfrickss&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
- <!-- <a href="https://github.com/mfrickss/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mfrickss&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a> -->
+<div align="center">
+  <a href="https://github.com/mfrickss">
+    <img src="https://github-readme-stats.vercel.app/api?username=mfrickss&hide_title=true&show_icons=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+  </a>
+  <a href="https://github.com/mfrickss/github-readme-stats" style="border: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrickss&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages">
+  </a>
 </div>
 
 
@@ -46,18 +46,17 @@ Atualmente estou cursando o 4° período em Análise e Desenvolvimento de Sistem
 #
 
 
-
+<div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfrickss/mfrickss/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfrickss/mfrickss/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mfrickss/mfrickss/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
+
 
 ##
-
-
-
-
   
 
  <!--
