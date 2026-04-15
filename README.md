@@ -38,7 +38,7 @@ Atualmente estou cursando o 4° período em Análise e Desenvolvimento de Sistem
   <!-- <img align="center" alt="Ricks-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
   <!-- <img align="center" alt="Ricks-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <!-- <img align="center" alt="VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> -->
-</div> -->
+</div> 
 
 
 
