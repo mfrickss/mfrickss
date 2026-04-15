@@ -4,16 +4,16 @@
 Atualmente estou cursando o 4° período em Análise e Desenvolvimento de Sistemas na Universidade Positivo.
 </div>
 
-<!--##
 
- <div align="center">
+
+ <!-- <div align="center">
   <a href="https://github.com/mfrickss">
     <img src="https://github-readme-stats.vercel.app/api?username=mfrickss&hide_title=true&show_icons=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
   </a>
   <a href="https://github.com/mfrickss/github-readme-stats" style="border: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrickss&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages">
   </a>
-</div> 
+</div> -->
 
 
 #
@@ -27,7 +27,7 @@ Atualmente estou cursando o 4° período em Análise e Desenvolvimento de Sistem
 
 <!-- <h3 align="left">My Stack:</h3>
 
-<div align="left">
+ <div align="left">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -37,8 +37,8 @@ Atualmente estou cursando o 4° período em Análise e Desenvolvimento de Sistem
   <img align="center" alt="postgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <!-- <img align="center" alt="Ricks-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
   <!-- <img align="center" alt="Ricks-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <!-- <img align="center" alt="VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> -->
-</div> 
+  <!-- <img align="center" alt="VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
+</div>  -->
 
 
 
