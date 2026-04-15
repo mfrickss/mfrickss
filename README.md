@@ -13,7 +13,7 @@ Atualmente estou cursando o 4° período em Análise e Desenvolvimento de Sistem
   <a href="https://github.com/mfrickss/github-readme-stats" style="border: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrickss&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages">
   </a>
-</div> -->
+</div> 
 
 
 #
