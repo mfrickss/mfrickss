@@ -25,9 +25,10 @@ Atualmente estou cursando o 4° período em Análise e Desenvolvimento de Sistem
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo)](https://www.linkedin.com/in/mfricks/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo)](https://mfrickss.github.io/portfolio/)
 
-<!-- <h3 align="left">My Stack:</h3>
+ <h3 align="left">My Stack:</h3>
 
  <div align="left">
+  <img align="center" alt="selenium" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
