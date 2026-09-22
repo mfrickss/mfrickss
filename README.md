@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=50&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ricardo;I'm+a+FullStack+Developer;Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
-Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com foco em automação de processos, criação de soluções eficientes e desenvolvimento de aplicações web completas.
+Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com foco em backend, criação de soluções eficientes e desenvolvimento de aplicações web completas.
 </div>
 
 
